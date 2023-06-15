@@ -1,3 +1,6 @@
+## Author: Faramarz Aboutalebi
+
+
 **Usage**
 
 # PA01 - Encrypting a Plaintext File using the Vigenere Cipher
